@@ -5,7 +5,7 @@ The Stackmaster RGB Board will take SCART RGB or 9 Pin Genesis RGB Connections a
 Features
 - Utilizes the THS7374 RGB Amp to provide an incredible clear and colorful image.
 - Utilizes the LM1881 chip to help strip and clean the C-Sync signal.
-- Wwitch that can Toggle from Mono Audio to Stero. 
+- Switch that can Toggle from Mono Audio to Stereo. 
 - Compact size.
 - Full Ground Plane underneath all the traces.
 - Powered from a USB Mini Cord.
