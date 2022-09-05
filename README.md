@@ -3,7 +3,7 @@
 The Stackmaster RGB Board will take SCART RGB or 9 Pin Genesis RGB Connections and convert them to Component.
 
 Download the Gerbers Here!!
-https://shawtechlighting.com/wp-content/uploads/2022/09/Gerbers_StackMaster_RGB_To_Component_V1.5.zip
+https://shawtechlighting.com/projects/stackmaster/
 
 
 **Features**
