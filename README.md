@@ -6,7 +6,7 @@ Download the Gerbers Here!!
 https://shawtechlighting.com/wp-content/uploads/2022/09/Gerbers_StackMaster_RGB_To_Component_V1.5.zip
 
 
-Features
+** Features **
 - Utilizes the THS7374 RGB Amp to provide an incredible clear and colorful image.
 - Utilizes the LM1881 chip to help strip and clean the C-Sync signal.
 - Switch that can Toggle from Mono Audio to Stereo. 
