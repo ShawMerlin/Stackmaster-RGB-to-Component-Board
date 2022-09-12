@@ -2,9 +2,6 @@
 
 The Stackmaster RGB Board will take SCART RGB or 9 Pin Genesis RGB Connections and convert them to Component.
 
-Download the Gerbers Here!! --
-https://shawtechlighting.com/stackmaster/rgb/
-
 **Features**
 - Utilizes the THS7374 RGB Amp to provide an incredible clear and colorful image.
 - Utilizes the LM1881 chip to help strip and clean the C-Sync signal.
