@@ -21,6 +21,9 @@ More Content Like this - www.facebook.com/GeekIslandGaming
 
 All Donations are reinvested into ideas and projects. Thank you for the support!!
 
+**Updates**
+- Sep 18, 2022 - An issue with a trace resulted in a ground short.  This has been fixed in Version 1.6
+
 
 ![image](https://user-images.githubusercontent.com/70423454/188229655-3e203f2a-38f6-44bd-a46c-c0f434cf7e77.png)
 
