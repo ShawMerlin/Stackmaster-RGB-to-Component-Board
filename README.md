@@ -20,6 +20,9 @@ More Content Like this - www.facebook.com/GeekIslandGaming
 
 All Donations are reinvested into ideas and projects. Thank you for the support!!
 
+=-=-=-Special Thanks to Project Guardian-=-=-=
+
+
 **Updates**
 - Sep 18, 2022 - An issue with a trace resulted in a ground short.  This has been fixed in Version 1.6
 
